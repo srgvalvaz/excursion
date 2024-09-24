@@ -3,18 +3,15 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
-    
-    
-    
-    
+
 }
-h1{
+.header{
     color: white;
     font-size: 50px;
      
 }
 
-p{
+.dnl{
     color: aquamarine;
     font-size: 16px;
 }
@@ -44,6 +41,7 @@ h3{
 }
 
 h4{
-    text-align: right;
+    font-size: 21px;
     color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
